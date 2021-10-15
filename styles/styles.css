@@ -8,8 +8,24 @@ body{
     color: #ff8000;
 }
 
-.mila,.ham,.arroz{
+.img1{
     text-align: center;
-    font-size: 35px;
-    color: #cc6600;
+    margin: 10px;
+    padding: 10px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: #ff8000;
+    flex: 1;
+ }
+
+    
+.fila{
+    display: flex;
+
+   
 }
+
+
+
+  
+
